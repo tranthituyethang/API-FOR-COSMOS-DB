@@ -6,8 +6,6 @@ This repo shows how to get started with the Azure Cosmos DB API for MongoDB API 
 
 * The sample folders (e.g., **001-quickstart** directory) contain runnable samples used in documentation [quickstart](https://learn.microsoft.com/azure/cosmos-db/mongodb/quickstart-python) and [getting started](https://learn.microsoft.com/azure/cosmos-db/mongodb/how-to-python-get-started) guides. If you make changes here keep the documentation in sync.
 
-The [validate workflow](./github/workflows/validate.yml) is set up for pull requests. See the workflow for tests that are run and run those locally first.
-
 ## Sample prerequisites
 
 Prerequisites:
